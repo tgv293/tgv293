@@ -13,9 +13,7 @@
 <li>🔭 I am currently a Java Backend Developer Intern at FPT Software.</li>
 <li>🎓 I earned a Bachelor of Science in Software Engineering from Nha Trang University.</li>
 <li>🧐 I am passionate about distributed systems, backend architecture, and AI-driven applications.</li>
-<li>👨‍💻 I have engineered RESTful APIs for healthcare systems and achieved high unit test coverage (80%+) using JUnit and Mockito.</li>
 <li>💬 Ping me about Java, Python, Spring Boot, or Docker.</li>
-<li>📙 I achieved a TOEIC Listening & Reading score of 735 in 2024.</li>
 </ul>
 
 <h2>✒️ Featured Projects & Experience</h2>
